@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-color:aqua ;
+  background-repeat: cover;
+}
+.ImgPerrito{
+  margin-top: 3rem;
+  width: 500px;
+  height: auto;
+  border-radius: 3px;
+  border-color: black;
+  display:inline-block;
+}
+.BtnPerrito{
+  background-color: blue;
+  color: white;
+}
